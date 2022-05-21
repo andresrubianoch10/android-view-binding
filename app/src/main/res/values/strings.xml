@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ViewBindingUse</string>
+    <string name="handler_go_to_activity_with_view_binding">...in Activity</string>
+    <string name="handler_title">Using View Binding...</string>
 </resources>
